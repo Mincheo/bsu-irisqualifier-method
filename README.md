@@ -1,6 +1,6 @@
-#Iris qualifier method
+# Iris qualifier method
 
-##Install
+## Install
 
 ```bash
 make && make install
